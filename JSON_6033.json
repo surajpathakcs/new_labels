@@ -1,5 +1,5 @@
 {
-  "ImageName": "IMG_5310",
+  "ImageName": "IMG_6033",
   "StudentName": "PRAJWAL DEVKOTA",
   "Level": "Bachelor",
   "RegNo": "5-2-378-60-2023",
@@ -14,7 +14,14 @@
       "Code": "CSC165",
       "Name": "Discrete Structure",
       "CreditHours": "3",
-      "GradePoint": "CSC166</s_Code><s_Name> Object Oriented Programming</s_Name><s_CreditHours> 3</s_CreditHours><s_GradePoint> 2.7",
+      "GradePoint": "3.3",
+      "Grade": "B+"
+    },
+      {
+      "Code": "CSC166",
+      "Name": "Object Oriented Programming",
+      "CreditHours": "3",
+      "GradePoint": "2.7",
       "Grade": "B-"
     },
     {

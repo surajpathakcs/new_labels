@@ -1,5 +1,5 @@
 {
-  "ImageName": "IMG_5295",
+  "ImageName": "IMG_6018",
   "StudentName": "BIBEK ARYALL",
   "Level": "Bachelor",
   "RegNo": "5-2-378-34-2023",
@@ -28,21 +28,21 @@
       "Code": "CSC167",
       "Name": "Microprocessor",
       "CreditHours": "3",
-      "GradePoint": "3.7",
-      "Grade": "A-"
+      "GradePoint": "3.3",
+      "Grade": "B+"
     },
     {
       "Code": "MTH168",
       "Name": "Mathematics II",
       "CreditHours": "3",
-      "GradePoint": "3.0",
+      "GradePoint": "3.7",
       "Grade": "A-"
     },
     {
       "Code": "STA169",
       "Name": "Statistics I",
       "CreditHours": "3",
-      "GradePoint": "3.7",
+      "GradePoint": "3.0",
       "Grade": "B"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "ImageName": "IMG_5295",
+  "ImageName": "IMG_6023",
   "StudentName": "DIPSON ADHIKARI",
   "Level": "Bachelor",
   "RegNo": "5-2-378-39-2023",
@@ -14,8 +14,15 @@
       "Code": "CSC165",
       "Name": "Discrete Structure",
       "CreditHours": "3",
-      "GradePoint": "CSC16</s_Code><s_Name> Object Oriented Programming</s_Name><s_CreditHours> 3</s_CreditHours><s_GradePoint> 3.7",
-      "Grade": "A-"
+      "GradePoint": "3.3",
+      "Grade": "B+"
+    },
+    {
+      "Code": "CSC166",
+      "Name": "Object Oriented Programming",
+      "CreditHours": "3",
+      "GradePoint": "3.3",
+      "Grade": "B+"
     },
     {
       "Code": "CSC167",
