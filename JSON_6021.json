@@ -1,6 +1,6 @@
 {
-  "ImageName": "IMG_5296",
-  "StudentName": "BINAY ARYALL",
+  "ImageName": "IMG_2021",
+  "StudentName": "BINAY ARYAL",
   "Level": "Bachelor",
   "RegNo": "5-2-378-37-2023",
   "AcademicYear": "2081",
@@ -27,6 +27,13 @@
     {
       "Code": "CSC167",
       "Name": "Microprocessor",
+      "CreditHours": "3",
+      "GradePoint": "3.3",
+      "Grade": "B+"
+    },
+    {
+     " Code": "MTH168",
+      "Name": "Mathematics II",
       "CreditHours": "3",
       "GradePoint": "3.7",
       "Grade": "A-"
